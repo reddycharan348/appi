@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Mail, Phone, MapPin, Send, MessageSquare, Clock, Globe, ShieldCheck, ChevronRight, CheckCircle2, User, Building, FileText } from "lucide-react";
+import { Mail, Phone, MapPin, Send, MessageSquare, Clock, Globe, ShieldCheck, ChevronRight, CheckCircle2, User, Building, FileText, Truck } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
 export default function ContactPage() {
